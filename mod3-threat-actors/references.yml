@@ -1,0 +1,159 @@
+# https://github.com/typst/hayagriva/blob/main/docs/file-format.md
+viasat-press-release-overview:
+    type: article
+    title: "KA-SAT Network cyber attack overview"
+    author: Viasat Inc.
+    date: 2022-03-30
+    url:
+        value: https://news.viasat.com/blog/corporate/ka-sat-network-cyber-attack-overview
+        date: 2024-01-11
+viasat-what-we-do:
+    type: web
+    title: "What we do"
+    author: Viasat Inc.
+    url:
+        value: https://www.viasat.com/about/what-we-do/
+        date: 2024-01-11
+viasat-ka-sat:
+    type: web
+    title: "KA-SAT"
+    author: Viasat Inc.
+    url:
+        value: https://www.viasat.com/space-innovation/satellite-fleet/ka-sat/
+        date: 2024-01-12
+defcon-viasat:
+    type: article
+    title: "Defending KA-SAT"
+    author: ["Mark Colaluca", "Nick Saunders"]
+    parent:
+        - type: conference
+          title: "DEF CON 31"
+        - type: video
+          date: 2023-09-15
+          url:
+              value: https://www.youtube.com/watch?v=qI_ICtX3Gm8
+              date: 2024-01-12
+kremlin-crimea:
+    type: article
+    title: "Agreement on the accession of the Republic of Crimea to the Russian Federation signed"
+    author: "Presidential Executive Office of the Russian Federation"
+    date: 2014-03-18
+    url:
+        value: https://en.kremlin.ru/events/president/news/20604
+        date: 2024-01-12
+ukraine-invasion:
+    type: article
+    title: "Missiles rain down around Ukraine"
+    author: ["Natalia Zinets", "Aleksandar Vasovic"]
+    organization: Reuters
+    date: 2022-02-25
+    url:
+        value: https://www.reuters.com/world/europe/putin-orders-military-operations-ukraine-demands-kyiv-forces-surrender-2022-02-24/
+        date: 2024-01-12
+sentinel-acid-rain:
+    type: article
+    title: "AcidRain | A Modem Wiper Rains Down on Europe"
+    author: ["Juan Guerrero-Saade", "Max van Amerongen"]
+    organization: SentinelLabs
+    date: 2022-03-31
+    url:
+        value: https://www.sentinelone.com/labs/acidrain-a-modem-wiper-rains-down-on-europe/
+        date: 2024-01-12
+cyber-kill-chain:
+    type: article
+    title: "Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains"
+    author: ["Eric Hutchins", "Michael Cloppert", "Rohan Amin"]
+    organization: Lockheed Martin Corporation
+    date: 2011-01
+    url:
+        value: https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
+        date: 2024-01-12
+uk-attribution:
+    type: article
+    title: "Russia behind cyber attack with Europe-wide impact an hour before Ukraine invasion"
+    author: National Cyber Security Centre
+    date: 2022-05-10
+    url:
+        value: https://www.ncsc.gov.uk/news/russia-behind-cyber-attack-with-europe-wide-impact-hour-before-ukraine-invasion
+        date: 2024-01-12
+us-attribution:
+    type: article
+    title: "Attribution of Russia’s Malicious Cyber Activity Against Ukraine"
+    author: "U.S. Department of State"
+    date: 2022-05-10
+    url:
+        value: https://www.state.gov/attribution-of-russias-malicious-cyber-activity-against-ukraine/
+        date: 2024-01-12
+eu-attribution:
+    type: article
+    title: "Russian cyber operations against Ukraine: Declaration by the High Representative on behalf of the European Union"
+    author: ["European Council", "Council of the European Union"]
+    date: 2022-05-10
+    url:
+        value: https://www.consilium.europa.eu/en/press/press-releases/2022/05/10/russian-cyber-operations-against-ukraine-declaration-by-the-high-representative-on-behalf-of-the-european-union/
+        date: 2024-01-12
+cisa-apt:
+    type: article
+    title: "Advanced Persistent Threats and Nation-State Actors"
+    author: "Cybersecurity and Infrastructure Security Agency"
+    url:
+        value: https://www.cisa.gov/topics/cyber-threats-and-advisories/advanced-persistent-threats-and-nation-state-actors
+        date: 2024-01-12
+wired-spill:
+    type: article
+    title: "A Mysterious Satellite Hack Has Victims Far Beyond Ukraine"
+    author: "Matt Burgess"
+    organization: "WIRED"
+    date: 2022-03-23
+    url:
+        value: https://www.wired.com/story/viasat-internet-hack-ukraine-russia/
+        date: 2024-01-12
+cyberpeace-case-study:
+    type: article
+    title: "Case Study: Viasat Attack"
+    author: "Cyberpeace Institute"
+    date: 2022-06
+    url:
+        value: https://cyberconflicts.cyberpeaceinstitute.org/law-and-policy/cases/viasat
+        date: 2024-01-12
+reuters-comms-loss:
+    type: article
+    title: "Satellite outage caused 'huge loss in communications' at war's outset -Ukrainian official"
+    author: "Raphael Satter"
+    organization: "Reuters"
+    date: 2022-03-15
+    url:
+        value: https://www.reuters.com/world/satellite-outage-caused-huge-loss-communications-wars-outset-ukrainian-official-2022-03-15/
+        date: 2024-01-12
+ansell-transboundary-crisis:
+    type: article
+    title: "Managing Transboundary Crises: Identifying the Building Blocks of an Effective Response System"
+    author: ["Chris Ansell", "Arjen Boin", "Ann Keller"]
+    date: 2010-10-05
+    serial-number:
+        doi: 10.1111/j.1468-5973.2010.00620.x
+    parent:
+        type: periodical
+        title: "Journal of Contingencies and Crisis Management"
+        volume: 18
+sarah-normal-accidents:
+    type: article
+    title: "Normal cyber accidents"
+    author: "Sarah Backman"
+    date: 2023
+    serial-number:
+        doi: 10.1080/23738871.2023.2281675
+    parent:
+        type: periodical
+        title: "Journal of Cyber Policy"
+        volume: 8
+        issue: 1
+cso-lessons-learned:
+    type: article
+    title: "Incident response lessons learned from the Russian attack on Viasat"
+    author: "Cynthia Brumfield"
+    organization: "CSO Online"
+    date: 2023-08-16
+    url:
+        value: https://www.csoonline.com/article/649714/incident-response-lessons-learned-from-the-russian-attack-on-viasat.html
+        date: 2024-01-12

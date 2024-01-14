@@ -1,0 +1,65 @@
+# https://github.com/typst/hayagriva/blob/main/docs/file-format.md
+equifax-annual-report-2022:
+    type: report
+    title: "2022 Annual Report"
+    author: Equifax
+    date: 2023-02-23
+    url:
+        value: https://d1io3yog0oux5.cloudfront.net/_296922d935c08dab331a5c57a7723d83/equifax/db/2054/19364/annual_report/EFX013+Equifax+2022+Annual+Report+Web.pdf
+        date: 2023-11-25
+apache-release:
+    type: misc
+    title: "Struts 2.3.32 General Availability"
+    author: The Apache Software Foundation
+    date: 2017-03-07
+    url:
+        value: https://struts.apache.org/announce-2017.html#a20170307-2
+        date: 2023-11-25
+cso-faq:
+    type: article
+    title: "Equifax data breach FAQ: What happened, who was affected, what was the impact?"
+    author: CSO
+    date: 2020-02-12
+    url:
+        value: https://www.csoonline.com/article/567833/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html
+        date: 2023-11-25
+bloomberg-state-sponsored:
+    type: article
+    title: "The Equifax Hack Has the Hallmarks of State-Sponsored Pros"
+    author: Bloomberg
+    date: 2017-09-29
+    url:
+        value: https://www.bloomberg.com/news/features/2017-09-29/the-equifax-hack-has-all-the-hallmarks-of-state-sponsored-pros
+        date: 2023-11-25
+ftc-settlement:
+    type: article
+    title: "Equifax to Pay $575 Million as Part of Settlement with FTC, CFPB, and States Related to 2017 Data Breach"
+    author: U.S. Federal Trade Commission
+    date: 2019-07-22
+    url:
+        value: https://www.ftc.gov/news-events/news/press-releases/2019/07/equifax-pay-575-million-part-settlement-ftc-cfpb-states-related-2017-data-breach
+        date: 2023-11-25
+reuters-fine:
+    type: article
+    title: "UK watchdog fines Equifax $13.4 million for role in cyber breach"
+    author: Reuters
+    date: 2023-10-13
+    url:
+        value: https://www.reuters.com/technology/uk-watchdog-fines-equifax-134-million-role-cyber-breach-2023-10-13/
+        date: 2023-11-25
+bis-breach-cost:
+    type: article
+    title: "Equifax's Data Breach Costs Hit $1.4 Billion"
+    author: BankInfoSecurity
+    date: 2019-05-13
+    url:
+        value: https://www.bankinfosecurity.com/equifaxs-data-breach-costs-hit-14-billion-a-12473
+        date: 2023-11-25
+wired-response:
+    type: article
+    title: "All the Ways Equifax Epically Bungled Its Breach Response"
+    author: WIRED
+    date: 2017-09-24
+    url:
+        value: https://www.wired.com/story/equifax-breach-response/
+        date: 2023-11-25
